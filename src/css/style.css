@@ -3,7 +3,9 @@ body {
   font-weight: 600;
   font-style: normal;
 }
-
+.navbar {
+    display: fixed-top;
+}
 .navbar-brand {
     font-size: 25px;
 }
